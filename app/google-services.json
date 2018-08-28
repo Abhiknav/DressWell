@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922195460368",
+    "firebase_url": "https://dresswell-41c18.firebaseio.com",
+    "project_id": "dresswell-41c18",
+    "storage_bucket": "dresswell-41c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922195460368:android:57743c89f5c5f319",
+        "android_client_info": {
+          "package_name": "com.example.abhiknav.dresswell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922195460368-ik00dppg3oo9abor2rn4nibpa97rrc62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhiknav.dresswell",
+            "certificate_hash": "51a23815ff8f3ba5f7ba11c721404adee0201af2"
+          }
+        },
+        {
+          "client_id": "922195460368-f43hl3et1lsdg1gk5n5g7fuehiu9a61a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDqdeaWrfXNRU_nJ1jWjUKMpfaFHp3gdc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922195460368-f43hl3et1lsdg1gk5n5g7fuehiu9a61a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

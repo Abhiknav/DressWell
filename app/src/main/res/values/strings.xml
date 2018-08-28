@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DressWell</string>
+    <string name="title_activity_kid_male">kid_male</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_kid_men">kid_men</string>
+    <string name="title_activity_kid_female">kid_female</string>
+    <string name="title_activity_teen_male">teen_male</string>
+    <string name="title_activity_teen_female">teen_female</string>
+    <string name="title_activity_adult_male">adult_male</string>
+    <string name="title_activity_adult_female">adult_female</string>
+    <string name="title_activity_old_male">old_male</string>
+    <string name="title_activity_old_female">old_female</string>
+</resources>
